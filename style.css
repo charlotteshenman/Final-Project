@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); 
-
+body{
+  background-color: Aquamarine;
+}
 .inback {
   background-color: yellow;
 }
@@ -11,8 +13,19 @@
 }
 
 img{
-  border: 15px zigzag #ddd;
+  border: 15px dashed #dddddd;
   margin: 30px;
-  border-color: pink; 
+  padding:2vw;
+  border-color: yellow; 
   border-radius: 40%;
+}
+
+p{
+  border: 3px double;
+  border-color: pink;
+  
+}
+
+p > span {
+  color: "MediumSlateBlue";
 }
