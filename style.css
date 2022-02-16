@@ -9,3 +9,10 @@
   font-family: 'Bebas Neue', cursive; 
   color: pink;
 }
+
+img{
+  border: 15px zigzag #ddd;
+  margin: 30px;
+  border-color: pink; 
+  border-radius: 40%;
+}
