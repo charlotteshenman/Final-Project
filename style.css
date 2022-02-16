@@ -28,4 +28,6 @@ p{
 
 p > span {
   color: "MediumSlateBlue";
+  font-size: 30px;
+  font-family: 'Bebas Neue', cursive; 
 }
